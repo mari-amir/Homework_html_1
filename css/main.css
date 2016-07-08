@@ -1,35 +1,30 @@
-body{  
-	background:#F5F5F5;   
-
+body {
+    background:#F5F5F5;   
 }
-.wrapper{
+.wrapper {
     width: 40%;
     margin: 0 auto;
     font-size: 18px;
-	background:#FFF;
+    background:#FFF;
     font-family:Times New Roman, serif;
-
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
-h1{
+h1 {
     text-align: center;
-	
 }
-.foto{
+.foto {
     width: 30%;
     display: block;
     margin: 30px auto;
-	
 }
-.box{
+.box {
     border-top: 1px solid black;
     padding:20px;
-	box-sizing: border-box;
-	
-	
+    box-sizing: border-box;
 }
-.box1{
+.box1 {
     padding-top: 5px;
     padding-left:20px;
-	border-top: none;
+    border-top: none;
 }
